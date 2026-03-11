@@ -1,0 +1,136 @@
+{
+    "posters": [
+        {
+            "title": "夏日狂欢节活动海报",
+            "image": "https://picsum.photos/seed/poster1/800/600"
+        },
+        {
+            "title": "新品发布会主视觉",
+            "image": "https://picsum.photos/seed/poster2/800/600"
+        },
+        {
+            "title": "双十一促销海报",
+            "image": "https://picsum.photos/seed/poster3/800/600"
+        },
+        {
+            "title": "品牌周年庆海报",
+            "image": "https://picsum.photos/seed/poster4/800/600"
+        },
+        {
+            "title": "餐厅招牌设计",
+            "image": "https://picsum.photos/seed/poster5/800/600"
+        },
+        {
+            "title": "咖啡店门头设计",
+            "image": "https://picsum.photos/seed/poster6/800/600"
+        },
+        {
+            "title": "美妆品牌广告",
+            "image": "https://picsum.photos/seed/poster7/800/600"
+        },
+        {
+            "title": "科技峰会主视觉",
+            "image": "https://picsum.photos/seed/poster8/800/600"
+        }
+    ],
+    "ecommerce": [
+        {
+            "title": "智能手表详情页",
+            "image": "https://picsum.photos/seed/ecom1/800/600"
+        },
+        {
+            "title": "护肤品套装详情页",
+            "image": "https://picsum.photos/seed/ecom2/800/600"
+        },
+        {
+            "title": "运动鞋详情页",
+            "image": "https://picsum.photos/seed/ecom3/800/600"
+        },
+        {
+            "title": "家具产品详情页",
+            "image": "https://picsum.photos/seed/ecom4/800/600"
+        },
+        {
+            "title": "数码产品详情页",
+            "image": "https://picsum.photos/seed/ecom5/800/600"
+        },
+        {
+            "title": "服装店铺首页",
+            "image": "https://picsum.photos/seed/ecom6/800/600"
+        },
+        {
+            "title": "食品详情页设计",
+            "image": "https://picsum.photos/seed/ecom7/800/600"
+        },
+        {
+            "title": "珠宝首饰详情页",
+            "image": "https://picsum.photos/seed/ecom8/800/600"
+        }
+    ],
+    "logos": [
+        {
+            "title": "科技公司Logo",
+            "image": "https://picsum.photos/seed/logo1/800/600"
+        },
+        {
+            "title": "餐饮品牌Logo",
+            "image": "https://picsum.photos/seed/logo2/800/600"
+        },
+        {
+            "title": "教育机构Logo",
+            "image": "https://picsum.photos/seed/logo3/800/600"
+        },
+        {
+            "title": "电商平台Logo",
+            "image": "https://picsum.photos/seed/logo4/800/600"
+        },
+        {
+            "title": "个人IP头像设计",
+            "image": "https://picsum.photos/seed/logo5/800/600"
+        },
+        {
+            "title": "游戏工作室Logo",
+            "image": "https://picsum.photos/seed/logo6/800/600"
+        },
+        {
+            "title": "健身品牌Logo",
+            "image": "https://picsum.photos/seed/logo7/800/600"
+        },
+        {
+            "title": "咨询公司Logo",
+            "image": "https://picsum.photos/seed/logo8/800/600"
+        }
+    ],
+    "videos": [
+        {
+            "title": "品牌宣传片",
+            "cover": "https://picsum.photos/seed/video1/800/600",
+            "url": "https://www.w3schools.com/html/mov_bbb.mp4"
+        },
+        {
+            "title": "产品广告视频",
+            "cover": "https://picsum.photos/seed/video2/800/600",
+            "url": "https://www.w3schools.com/html/mov_bbb.mp4"
+        },
+        {
+            "title": "双十一预热视频",
+            "cover": "https://picsum.photos/seed/video3/800/600",
+            "url": "https://www.w3schools.com/html/mov_bbb.mp4"
+        },
+        {
+            "title": "企业年度回顾",
+            "cover": "https://picsum.photos/seed/video4/800/600",
+            "url": "https://www.w3schools.com/html/mov_bbb.mp4"
+        },
+        {
+            "title": "新品发布视频",
+            "cover": "https://picsum.photos/seed/video5/800/600",
+            "url": "https://www.w3schools.com/html/mov_bbb.mp4"
+        },
+        {
+            "title": "社交媒体短视频",
+            "cover": "https://picsum.photos/seed/video6/800/600",
+            "url": "https://www.w3schools.com/html/mov_bbb.mp4"
+        }
+    ]
+}
